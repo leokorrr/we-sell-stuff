@@ -1,3 +1,3 @@
-# Note from Dev 🦁
+# Tech Stack
 
-Hi! I'm Leo. 
+Next, React, React Hooks, Typescript, Styled components, Jest, React Testing Library, SWR, MSW
